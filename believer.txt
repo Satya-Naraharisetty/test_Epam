@@ -1,5 +1,6 @@
 believer
 believer
+<<<<<<< HEAD
 first things first
 im gonna say
 
